@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: "/Create Account Form",
+    base: "/paolaweb/",
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
